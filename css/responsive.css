@@ -1,0 +1,20 @@
+@media screen and (max-width: 768px) {
+
+    .userlinks {
+        width: 540px;
+    }
+
+    userlinks ul {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+}
+
+@media screen and (max-width: 576px) {
+
+    .userlinks {
+        width: 90%;
+    }    
+
+}

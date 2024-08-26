@@ -1,0 +1,77 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nerko One", cursive !important;
+
+}
+
+html {
+
+    height: 100% !important;
+
+}
+
+body {
+
+    height: 100%;
+    background-color: #6cb8cf;
+
+}
+
+p {
+
+    font-family: "Ubuntu", sans-serif !important;
+
+}
+
+div.bienvenidaEIndicaciones {
+
+    padding: 2rem;
+    margin-top: 2rem;
+
+    border-color: white;
+    border-style: solid;
+    border-radius: 20px;
+
+    color: white;
+    text-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
+
+    background-color: #95ccdd;
+
+}
+
+div.bienvenidaEIndicaciones h1 {
+
+    text-align: center;
+    font-size: 5rem;
+
+}
+
+div.bienvenidaEIndicaciones p {
+
+    font-size: 1.5rem;
+    font-weight: bolder;
+
+}
+
+div.bienvenidaEIndicaciones p a {
+
+    color: rgb(123, 7, 207) !important;
+    font-size: xx-large;
+
+}
+
+div.bienvenidaEIndicaciones p a:hover {
+
+    color: rgb(255, 255, 255) !important;
+
+}
+
+div.bienvenidaEIndicaciones ul li {
+
+    color: rgb(0, 26, 255) !important;
+    font-size: xx-large;
+
+}

@@ -1,0 +1,76 @@
+.userlinks {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.userlinks article {
+    transition: box-shadow 0.3s ease;
+    background: rgba(0, 0, 0, .1);
+    backdrop-filter: blur(10px);
+    margin: 2rem 0;
+    border-radius: 1rem;
+    padding: 0.25rem 0;
+    box-shadow: 0 0 1rem 0 rgb(255, 255, 255);
+}
+
+.userlinks article img {
+
+    border-radius: 500px;
+
+}
+
+.userlinks article h2, section article p, section article ul {
+    margin: 1rem;
+    list-style-position: inside;
+    color: white;
+}
+
+.post-titulo{
+    text-align: center;
+    font-size: 3rem;
+}
+
+.userlinks a {
+
+    text-decoration: none;
+    color: #ffffff;
+    font-size: xx-large;
+    margin: 1rem;
+
+}
+
+.userlinks ul {
+
+    padding: 0;
+    list-style: none;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    
+
+}
+
+.userlinks ul li{
+
+    border-radius: 5rem;
+    padding: 1rem;
+    background-color: #62b0ff;
+    font-family: "Ubuntu", sans-serif !important;
+    box-shadow: .5rem .5rem 0 0 rgb(0, 55, 255);
+    margin-top: 1rem;
+
+}
+
+.userlinks ul li ion-icon {
+
+    margin-right: 1rem;
+
+}
+
+div.iconos {
+
+    align-items: center;
+    text-align: center;
+
+}
