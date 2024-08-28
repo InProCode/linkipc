@@ -35,7 +35,7 @@
     text-decoration: none;
     color: #ffffff;
     font-size: xx-large;
-    margin: 1rem;
+    transition: all 0.3s;
 
 }
 
@@ -59,6 +59,15 @@
     font-family: "Ubuntu", sans-serif !important;
     box-shadow: .5rem .5rem 0 0 rgb(0, 55, 255);
     margin-top: 1rem;
+    transition: all 0.3s;
+
+}
+
+.userlinks ul li:hover {
+
+    background-color: #a9d4ff;
+    color: #005ab4;
+    box-shadow: .5rem .5rem 0 0 rgb(24, 74, 255);
 
 }
 
@@ -72,5 +81,12 @@ div.iconos {
 
     align-items: center;
     text-align: center;
+
+}
+
+.iconos a:hover {
+
+    color: #62b0ff;
+    font-size: 3rem;
 
 }
